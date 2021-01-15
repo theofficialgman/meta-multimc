@@ -10,9 +10,9 @@
             "downloads": {
                 "classifiers": {
                     "natives-linux": {
-                        "sha1": "7ff832a6eb9ab6a767f1ade2b548092d0fa64795",
-                        "size": 10362,
-                        "url": "https://libraries.minecraft.net/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-linux.jar"
+                        "sha1": "1bc004d647a2e94d969c00a2bb2a472f37109f2d",
+                        "size": 10630,
+                        "url": "https://jjtech0130.github.io/meta-downloads/jinput-platform-2.0.5-natives-linux.jar"
                     },
                     "natives-osx": {
                         "sha1": "53f9c919f34d2ca9de8c51fc4e1e8282029a9232",
@@ -67,9 +67,9 @@
                 },
                 "classifiers": {
                     "natives-linux": {
-                        "sha1": "931074f46c795d2f7b30ed6395df5715cfd7675b",
-                        "size": 578680,
-                        "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/lwjgl-platform/2.9.4-nightly-20150209/lwjgl-platform-2.9.4-nightly-20150209-natives-linux.jar"
+                        "sha1": "0e42f35e5c3bb66ef274af87edc8fe5354fa215b",
+                        "size": 725657,
+                        "url": "https://jjtech0130.github.io/meta-downloads/lwjgl-platform-2.9.4-nightly-20150209-natives-linux.jar"
                     },
                     "natives-osx": {
                         "sha1": "bcab850f8f487c3f4c4dbabde778bb82bd1a40ed",
