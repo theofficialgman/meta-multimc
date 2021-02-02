@@ -1,8 +1,0 @@
-{
-    "formatVersion": 1,
-    "name": "LWJGL 3",
-    "recommended": [
-        "3.2.3"
-    ],
-    "uid": "org.lwjgl3"
-}
