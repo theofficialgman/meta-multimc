@@ -188,6 +188,6 @@
 	"releaseTime": "2020-06-10T11:26-04:00",
 	"type": "release",
 	"uid": "org.lwjgl3",
-	"version": "3.2.2",
+	"version": "3.2.3",
 	"volatile": false
 }
