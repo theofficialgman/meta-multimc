@@ -8,22 +8,22 @@
         },
         {
             "name": "Fabric Loader",
-            "sha256": "4f72f8d2aa53427c4e3334185b1287a2d07c4125fb8e8378a9faa788355992a8",
+            "sha256": "99c093e191b7ffd7f31ee8dd07f953b0146fdf51f57486261d4d4c1f892cc22d",
             "uid": "net.fabricmc.fabric-loader"
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "a1fcaf3516bdc8d504ee367389c4f259cc1e6e2fb58d80eafa24db813e622838",
+            "sha256": "f29e39b6255c9e1d4eac809c2a970890ea37d2f8016f3a39e78bf27d10c8ed2e",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "4877da9da647bea5746dba25f3e50459bc1146ebea92f02579a7d76ce0c79a50",
+            "sha256": "78359248914a945e5c576c2db9de6e5f794455a752e946e4edb57d8e9b848fa4",
             "uid": "net.minecraft"
         },
         {
             "name": "Forge",
-            "sha256": "5f5492a18794c8cc15551c78d651152b1aa0913f7148e4b76ea81187cc800257",
+            "sha256": "3b2c53f0be18a9d7718a60873e13dba54526b734de0e14f0e6c6b4e310020dcf",
             "uid": "net.minecraftforge"
         },
         {
