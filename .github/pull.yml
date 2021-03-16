@@ -1,5 +1,6 @@
 version: "1"
 rules:
   - base: master
-    upstream: MultiMC:master    # change `wei` to the owner of upstream repo
+    upstream: MultiMC:master
     mergeMethod: rebase
+    mergeUnstable: true
